@@ -1,2 +1,2 @@
-# PNADCipea
-pacote de atualização dos dados da PNADC do ipea
+# PNADCIpea
+Pacote do R para baixar os dados da Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua)
